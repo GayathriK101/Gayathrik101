@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 🔭 I’m currently working on: Developing web and AI powered solutions that tackle real problems -coz the world doesn't need another weather app <br>👯 I’m looking to collaborate on: Scalable meaningful tech projects. <br>🤝 I’m looking for help with: Optimizing backend logic and exploring advanced API integration<br>🌱 I’m currently learning: Deepening my expertise in full stack . JavaScript eco system and applied AI.<br>💬 Ask me about: Turning ideas into projects or how I survive on maggi & code!!<br>
 
 
